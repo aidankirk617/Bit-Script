@@ -30,12 +30,7 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][https://github.com/aidankirk617/Bit-Script/graphs/contributors]
-[![Forks][forks-shield]][https://github.com/aidankirk617/Bit-Script/network/members]
-[![Stargazers][stars-shield]][https://github.com/aidankirk617/Bit-Script/stargazers]
-[![Issues][issues-shield]][https://github.com/aidankirk617/Bit-Script/issues]
-[![MIT License][license-shield]][LICENSE.md] 
-
+![GitHub All Releases](https://img.shields.io/github/downloads/aidankirk617/Bit-Script/total) ![GitHub issues](https://img.shields.io/github/issues/aidankirk617/Bit-Script) ![GitHub](https://img.shields.io/github/license/aidankirk617/Bit-Script)
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
