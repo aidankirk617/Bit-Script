@@ -2,7 +2,7 @@
 <br />
 <p align="center">
     <!-- <a href="https://github.com/aidankirk617/BitScript"> -->
-    <img src="images/bit.jfif" alt="Logo" width="800" height="400">
+    <img src="bit.jfif" alt="Logo" width="900" height="400">
   </a>
 
   <h3 align="center">BitScript</h3>
