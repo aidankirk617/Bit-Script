@@ -8,7 +8,7 @@
   <h3 align="center">BitScript</h3>
 
   <p align="center">
-    Automate Dropbox sync between local and cloud based storage right from your terminal
+    Data grabbing automation for Bitcoin using the Blockchain API
     <br />
     <a href="https://github.com/aidankirk617/Bit-Script"><strong>Explore the docs »</strong></a>
     <br />
